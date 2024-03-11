@@ -1,0 +1,32 @@
+div {  
+position:relative;left:80px;top:2px; background-color:#99ffff;
+
+ }
+Form {
+ position: relative;  left: 80px;  top:2px; align:center;
+
+width: auto;
+    height: auto;
+
+}
+
+}
+p {
+font-weight:bold;
+
+
+}
+ Textbox Text  { font:italic small-caps bold 15px georgia; }
+
+table {
+
+
+align:center;
+}
+
+p {
+
+
+color: green;}
+
+.editable {cursor: pointer;} .editable:hover {background-color: #FFFFAA;}

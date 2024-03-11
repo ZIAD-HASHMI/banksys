@@ -1,0 +1,507 @@
+.headr {
+background-color:#111 ;
+    position: relative;    top:0.5inc;
+
+   width: auto;
+    height: 60px;
+    font-size: 1rem;
+
+ color: white; text-decoration: none;
+
+
+}
+
+ .mean{
+
+background-color:#111;
+
+ position: fixed;  
+  top:23px; 
+left:200px;
+
+    padding: 0em;
+
+
+
+}
+
+.login {
+background-color:#111;
+
+ position: fixed;  
+  top:8px; 
+left:350px;
+   height:16px;
+width:auto;
+ padding: 1em; 
+
+}
+
+
+
+
+
+ .content {
+background-color:#111;
+    position: fixed;    top:80px; right:0px;left:1px;
+border :none;
+font-size: 1rem;
+color:white;
+border: 0px dashed red;
+height:700px;
+width:auto;
+ padding: 1em;
+
+}
+
+
+
+.sidr {
+background-color:#111 ;
+    position: fixed;    top:80px; right:2px;
+border :none;
+font-size: 1rem;
+color:white;
+border: 0px dashed red;
+height:700px;
+width:160px;
+ padding: 1em;
+
+}
+
+.sidl {
+background-color:#111 ;
+    position: fixed;    top:80px;left:2px;
+border :none;
+font-size: 1rem;
+color:white;
+border: 0px dashed red;
+height:700;
+width:60px;
+ padding: 1em;
+
+}
+
+
+.trandiv {
+background-color:#888 ;
+    position: fixed;    top:300px;left:18px;
+border :0px dashed red;
+font-size: 1rem;
+color:white;
+
+height:400px;
+width:4600px;
+ padding: 1em;
+
+}
+
+
+.imdiv {
+background-color:#888 ;
+    position: fixed;    top:180px;left:18px;
+border :0px dashed red;
+font-size: 1rem;
+color:white;
+
+height:80px;
+width:100px;
+ padding: 1em;
+
+}
+.imdiv2 {
+background-color:#888 ;
+    position: fixed;    top:180px;right:280px;
+border :0px dashed red;
+font-size: 1rem;
+color:white;
+
+height:80px;
+width:100px;
+ padding: 1em;
+
+}
+
+.imdivd4 {
+background-color:#888 ;
+    position: fixed;    top:320px;right:280px;
+border :0px dashed red;
+font-size: 1rem;
+color:white;
+
+height:80px;
+width:100px;
+ padding: 1em;
+
+}
+
+.img {
+background-color:#111 ;
+    position: fixed;    
+left:12px
+font-size: 1rem;
+color:white;
+border: 0px dashed red;
+height:60px;
+width:60px;
+ padding: 1em;
+
+}
+.fetch {
+background-color:#111 ;
+    position: fixed;    top:320px;left:0px;
+border :0px dashed red;
+font-size: 1rem;
+color:white;
+
+height:80px;
+width:100px;
+ padding: 1em;
+
+}
+.imdivd {
+background-color:#111 ;
+    position: fixed;    top:320px;left:200px;
+border :0px dashed red;
+font-size: 1rem;
+color:white;
+
+height:80px;
+width:100px;
+ padding: 1em;
+
+}
+
+
+
+
+.imdivd2 {
+background-color:#111 ;
+    position: fixed;    top:320px;left:18px;
+border :0px dashed red;
+font-size: 1rem;
+color:white;
+
+height:80px;
+width:100px;
+ padding: 1em;
+
+}
+
+
+
+.footer {
+background-color:#111 ;
+    position: fixed;    top:80%; right:2px;
+border: 0px dashed red;;
+font-size: 1rem;
+color:white;
+
+left:2px;
+
+height:80px;
+width:auto;
+
+
+
+}
+
+.footer-p {
+background-color:#111 ;
+    position: fixed;  top:78%; right:300px; 
+
+font-size: 2rem;
+color:white;
+
+text-decoration: none;
+
+
+
+
+
+}
+
+
+
+.rg {position: relative;
+top:900px;left:700px;
+right:0px;
+    color:yellow;
+    font-size: 2rem;
+width:100%;
+height: 60px;
+
+
+
+
+
+}
+
+input[type=text]:default {background-color: black;
+color:gold;
+border-top-style: hidden;
+
+
+}
+.input {background-color:white ;
+left:0px;
+right:0px;
+    color:yellow;
+    font-size: 1rem;
+width:100%;
+height: 40px;
+}
+.button {background-color: #124;left:0px;
+right:0px;
+    color:yellow;
+    font-size: 3rem;
+width:100%;
+height: 100px;}
+
+input[type=date]:readonly {border: 2px dashed red;}
+
+
+.Form1-input:focus {background-color: white;}
+
+
+body {font-size: medium;       font-family: Serif;       background-color: black;       color: white;} #page {background-color: white;        color: black;  
+
+size: 8.5in 11in;
+      padding: 1em;}
+
+ .h1 {font-size: xx-large;     font-family: Sans-Serif;     color: black;     text-align: center;     border-bottom: solid 4px orange;} p  {text-indent: 1em;       text-align: justify;     line-height: 150%;} a:link     {color: blue; text-decoration: none;} a:visited  {color: red; text-decoration: none;} a:hover    {color: red; text-decoration: underline;} a:active   {color: red; text-decoration: none;} 
+
+input[type=submit]:default {background-color: black;
+color:white;
+}
+input {background-color:blue ;
+    color:yellow;
+    font-size: 1rem;}
+
+
+
+
+.l1 {
+border:  30;              padding: 2;              width: 200;}
+a:link     {color: yellow; text-decoration: none;} a:visited  {color: white; text-decoration: none;} a:hover    {color: red; text-decoration: underline;} a:active   {color: red; text-decoration: none;}
+
+.DWN{
+background-color:blue ;
+    color:yellow;
+    font-size: 1rem; 
+
+}
+.nav {
+background-color:#111 ;
+    position: fixed;    top:0px; 
+z-index:1;
+font-size: 1rem;
+width:100%;
+color: pink;
+
+    
+    
+
+}
+
+
+.logo {
+background-color:#111 ;
+    position: fixed;    top:8px; 
+
+right:400px;
+font-size: 1rem;
+
+color: pink;
+
+    
+    
+
+}
+
+
+
+.sdm {
+background-color:#111 ;
+    position: fixed;    top:0px; 
+
+right:0px;
+font-size: 1rem;
+
+color: pink;
+
+    
+    
+
+}
+
+
+.div {
+background-color:#111 ;
+    position: fixed;    top:2px; 
+
+font-size: 1rem;
+color:white;
+left:0px;
+
+    
+    
+    
+    
+
+}
+
+
+.wrks {
+background-color:#111 ;
+    position: fixed;    top:320px; right :100px;
+border :none;
+font-size: 1rem;
+color:white;
+border:2px;
+
+height:auto;
+width:auto;
+
+display :none;
+
+      padding: 1em;
+
+}
+.table {
+background-color:#111 ;
+    position: fixed;    top:220px;left:80px;
+border :0px dashed red;
+font-size: 1rem;
+color:white;
+
+height:80px;
+width:160px;
+ padding: 1em;
+
+
+
+
+      padding: 2em;
+
+}
+
+.table .rows
+{
+
+background-color:#888 ;
+    
+border :0.5px;
+font-size: 1rem;
+color:white;
+border:2px;
+
+height:auto;
+width:auto;
+
+}
+
+
+.dpf {
+
+    position: relative;    top:200px; 
+
+font-size: 1rem;
+color:white;
+left:100px;
+
+    width: auto;
+    height: auto;
+    
+    
+
+}
+
+.div-reg {
+background-color:#111 ;
+    position: fixed;    top:150px; 
+
+font-size: 1rem;
+
+left:5px;
+right:5px;
+    width:auto;
+    height: auto;
+    
+    
+
+}
+
+ 
+
+
+.p {
+background-color:#111;
+position: relative;    top:10px;
+
+   
+    font-size: 1rem;
+
+ color: yellow ; text-decoration: none;
+
+}
+
+
+.query {
+position: relative;  right: 250px;  top:220px; 
+
+width: auto;
+    height: auto;
+border: 2px dashed red;
+visibility:hidden;
+
+}
+
+
+.menuacc{
+position: relative;  right: 20px;  top:10px; 
+
+width: auto;
+    height: auto;
+
+
+
+}
+
+.tbl{
+position:right;  top:10px; 
+    
+border: 2px;
+
+
+
+}
+
+input:focus {background-color: black;}
+
+option{
+background-color:blue ;
+    color:yellow;
+    font-size: 1rem;}
+
+
+
+.legend {
+color:yellow;
+font-size:2rem;font-family: Sans-Serif;
+}
+
+
+.marq {
+background-color:blue;
+width: auto;
+    height: auto;
+font-family: OpenSans-Light;
+    color: gold;
+    font-size: 1rem;}
+
+
+media screen and (max-height: 600px) {
+  .sidenavr {padding-top: 15px;}
+  .sidenavr a {font-size: 18px;}
+}

@@ -1,0 +1,1 @@
+<?function hasRequired($array, $requiredFields) { $keys = array_keys($array); foreach ($requiredFields as $fieldName) { if (!in_array($fieldName, $keys)) { return false; } } return true; } if ($_POST['Login']) { echo "<p>You "; echo hasRequired($_POST, array('u_one', 'u_email')) ? "did" : "did not"; echo " have all the required fields.</p>"; } ?>

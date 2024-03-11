@@ -1,0 +1,38 @@
+.LEDGER {
+    display: none;
+width: auto;
+    height: auto;
+    background-color: #263238;
+
+webkit-animation-duration: 4s;
+}
+.IDNTITY{
+display: none;
+width: auto;
+    height: auto;
+    background-color: #263238;
+
+webkit-animation-duration: 4s;
+
+
+}
+
+.dhx_color-sample {
+    webkit-animation-duration: 4s;
+    background-color: #263238 ;
+visibility:hidden; 
+
+
+}
+.acctyp{
+display: visible;
+
+webkit-animation-duration: 4s;
+
+}
+.bgsound{      id:s1;      loop:infinite;      src:images/clear.m4a;      volume:2000;>
+
+webkit-animation-duration: 4s;
+
+
+}

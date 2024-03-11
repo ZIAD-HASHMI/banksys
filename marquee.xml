@@ -1,0 +1,23 @@
+<?xml version="1.0" ?> 
+<currency>   
+<USD> 
+<RY>67</RY>    
+<RSA>29</RSA>
+<UAE>29</UAE>
+</USD>
+ <USD>       
+<RY>67</RY>    
+<RS>2</RS>
+<UAE>2</UAE> 
+</USD>     
+<USD>     
+<RY>2</RY>    
+<RS>2</RS>
+<UAE>2</UAE>
+ </USD>            
+<USD>     
+<RY>2</RY>    
+<RS>3.3</RS>
+<UAE>3.3</UAE>
+ </USD>    
+</currency>

@@ -1,0 +1,65 @@
+body {font-size: medium;       font-family: Serif;       background-color: black;       color: white;} #page {background-color: white;        color: black;  
+
+size: 8.5in 11in;
+      padding: 1em;}
+
+@page :left {margin-left: 4cm; margin-right: 2cm;}
+
+
+@page :right {margin-left: 6cm; margin-right: 3cm;}
+
+ h1 {font-size: xx-large;     font-family: Sans-Serif;     color: black;     text-align: center;     border-bottom: solid 4px orange;} p  {text-indent: 1em;       text-align: justify;     line-height: 150%;} a:link     {color: blue; text-decoration: none;} a:visited  {color: red; text-decoration: none;} a:hover    {color: red; text-decoration: underline;} a:active   {color: red; text-decoration: none;} 
+
+input[type=text]:default {background-color: black;
+color:gold;
+border-top-style: hidden;
+
+
+}
+input {background-color:blue ;
+    color:yellow;
+    font-size: 1rem;}
+input[type=button] {background-color: white;}
+
+input[type=date]:readonly {border: 2px dashed red;}
+
+.l1 {
+border:  30;              padding: 2;              width: 200;}
+a:link     {color: yellow; text-decoration: none;} a:visited  {color: white; text-decoration: none;} a:hover    {color: red; text-decoration: underline;} a:active   {color: red; text-decoration: none;}
+
+.DWN{
+background-color:blue ;
+    color:yellow;
+    font-size: 1rem;}
+
+
+
+input:focus {background-color: black;}
+
+option{
+background-color:blue ;
+    color:yellow;
+    font-size: 1rem;}
+
+.pro {position :relative;
+
+left: 200px;  top:20px; align:center;
+
+width: auto;
+    height: auto;
+
+
+}
+
+.legend {
+color:yellow;
+font-size:2rem;font-family: Sans-Serif;
+}
+
+
+.marq {
+background-color:blue;
+
+font-family: OpenSans-Light;
+    color: gold;
+    font-size: 1rem;}

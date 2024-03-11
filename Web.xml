@@ -1,0 +1,6 @@
+
+<?xml version="1.0" uncode="UTF8" ?> 
+
+<Files ~ "\.inc$">  Order allow,deny  Deny from all </Files>
+
+</xml>
